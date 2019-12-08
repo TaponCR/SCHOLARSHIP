@@ -1,0 +1,1 @@
+If scholarship.sql database doesn't work please use scholarship.zip file
