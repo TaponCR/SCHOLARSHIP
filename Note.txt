@@ -1,0 +1,13 @@
+Database name: scholarship
+user name: root
+password: ''
+
+
+for wordpress
+-----------------
+
+Site Title: scholarship
+Username: scholarship
+Password: scholarship
+your-email: scholarship@gmail.com
+table_prefix = 'pt_';
